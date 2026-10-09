@@ -28,5 +28,9 @@
    Окно alert() выводит: ![img_1.png](img/img_1.png)
 
   Дан массив 1, 2, 30, 7, 3, 5.
-![img_4.png](img/img_4.png)
+
+
+  ![img_4.png](img/img_4.png)
+
+
   alert(): ![img_3.png](img/img_3.png)
