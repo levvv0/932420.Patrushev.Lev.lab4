@@ -246,10 +246,6 @@ footer {
     position: static;
   }
 
-  nav {
-    flex-direction: column;
-  }
-
   .technology-card {
     flex-basis: 100%;
   }
